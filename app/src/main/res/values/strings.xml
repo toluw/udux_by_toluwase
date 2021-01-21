@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toluwase Oke</string>
+    <string name="audio">Audio Player</string>
+    <string name="discover">https://api.udux.com/api/v1/screens/discover</string>
+</resources>
